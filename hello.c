@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("From Recipe Fetched from Git\r\n");
+	printf("From Recipe Fetched from Git = 1\r\n");
 }
