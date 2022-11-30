@@ -1,0 +1,4 @@
+5c5
+< 	printf("From Recipe Fetched from Git = 1\r\n");
+---
+> 	printf("From New Patch fetched from Git\r\n");
